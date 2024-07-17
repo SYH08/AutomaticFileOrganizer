@@ -2,6 +2,7 @@
 ## Overview
 
 This project is for Computer and Information Class's Subject Detail Report
+
 (Subject Detail Report is a portion of School Life Detail Report in S.Korea.)
 
 ## Algorithm
