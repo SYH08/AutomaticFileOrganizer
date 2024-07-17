@@ -1,7 +1,10 @@
 # Automatic File Organizer
 ## Overview
+
 This project is for Computer and Information Class's Subject Detail Report (it is a portion of School Life Detail Report in S.Korea.)
+
 ## Algorithm
+
 1. Enter path of target directory and directory for organized files(Organized Directory)
 2. Check if input(in 1) is empty or not and follow these steps:
 	1. If the input is empty, ```targetDir``` has a default value of ```"./target"```.
@@ -23,7 +26,7 @@ This project is for Computer and Information Class's Subject Detail Report (it i
 
 
 
-Since I'm from korea, Sorry for my bad Grammar.
+Since I'm from S.Korea, Sorry for my bad grammar.
 
 
 
